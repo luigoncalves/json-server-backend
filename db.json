@@ -11,21 +11,23 @@
       "password": "ironhack"
     }
   ],
-  "tasks": [
+  "books_to_read": [
     {
       "id": 1,
-      "projectId": 1,
-      "description": "Use Vite to create a basic React app"
+      "bookKey": 84852,
+      "userId": 1
+    }
+  ],
+  "books_already_read": [
+    {
+      "id": 1,
+      "bookKey": 84857,
+      "userId": 1
     },
     {
       "id": 2,
-      "projectId": 1,
-      "description": "Install React Router and setup routes"
-    },
-    {
-      "id": 3,
-      "projectId": 2,
-      "description": "Create a form with 5 input fields"
+      "bookKey": 9134,
+      "userId": 2
     }
   ]
 }
