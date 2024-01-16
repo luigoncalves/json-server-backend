@@ -14,19 +14,34 @@
   "books_to_read": [
     {
       "id": 1,
-      "bookKey": "OL71069W",
+      "bookKey": "OL76827W",
+      "userId": 1
+    },
+    {
+      "id": 2,
+      "bookKey": "OL20010115W",
       "userId": 1
     }
   ],
   "books_already_read": [
     {
       "id": 1,
-      "bookKey": 84857,
+      "bookKey": "OL17075811W",
       "userId": 1
     },
     {
       "id": 2,
-      "bookKey": 9134,
+      "bookKey": "OL24557376W",
+      "userId": 1
+    },
+    {
+      "id": 3,
+      "bookKey": "OL17825802W",
+      "userId": 1
+    },
+    {
+      "id": 4,
+      "bookKey": "OL17075811W",
       "userId": 2
     }
   ]
