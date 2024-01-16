@@ -2,15 +2,13 @@
   "users": [
     {
       "id": 1,
-      "username": "nijat@phoenix-pages.com",
-      "password": "ironhack",
-      "token": null
+      "username": "Nijat",
+      "password": "ironhack"
     },
     {
       "id": 2,
-      "username": "luis@phoenix-pages.com",
-      "password": "ironhack",
-      "token": null
+      "username": "Luis",
+      "password": "ironhack"
     }
   ],
   "books_to_read": [
