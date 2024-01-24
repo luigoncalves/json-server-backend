@@ -21,6 +21,11 @@
       "id": 2,
       "bookKey": "OL20010115W",
       "userId": 1
+    },
+    {
+      "id": 3,
+      "bookKey": "OL20010115W",
+      "userId": 2
     }
   ],
   "books_already_read": [
